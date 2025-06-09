@@ -470,13 +470,13 @@ if (reversed == null) { reversed = false; }
 
 	// Слой_1
 	this.instance = new lib.terra_bg_320x480();
-	this.instance.setTransform(-367,-653,0.85,0.8502);
+	this.instance.setTransform(-473,-736,0.97,0.9703);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
-}).prototype = getMCSymbolPrototype(lib.bg_pic, new cjs.Rectangle(-367,-653,734.4,1305.9), null);
+}).prototype = getMCSymbolPrototype(lib.bg_pic, new cjs.Rectangle(-473,-736,838.1,1490.3), null);
 
 
 (lib.bg_blue = function(mode,startPosition,loop,reversed) {
@@ -721,7 +721,7 @@ if (reversed == null) { reversed = false; }
 	// shad1
 	this.shad1 = new lib.shad1();
 	this.shad1.name = "shad1";
-	this.shad1.setTransform(1130.55,614.55,2.3999,0.7784,0,0,0,314.1,106.1);
+	this.shad1.setTransform(978.55,576.55,2.3999,0.7784,0,0,0,314.1,106.1);
 
 	this.timeline.addTween(cjs.Tween.get(this.shad1).wait(1));
 
@@ -735,7 +735,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(228.1,583.8,592.6999999999999,709.5);
+p.nominalBounds = new cjs.Rectangle(140.8,544.4,603.2,850.3000000000001);
 // library properties:
 lib.properties = {
 	id: 'AC5308E581C9DC4DB5D44204AB0025B1',
